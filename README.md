@@ -1,16 +1,12 @@
-### Hi there 👋
+# Hola!, soy Gabriel Calderón 👋🏻
+ 
+## Soy estudiante de ingeniería y un apasionado por la tecnología y los videojuegos 👨🏻‍💻
 
-<!--
-**ga-b0/ga-b0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Actualmente me encuentro formándome acerca de tecnologías web, mayormente orientadas al desarrollo FrontEnd como **HTML**, **CSS** y **JavaScript**, y un poco del lado del BackEnd con **PHP** y **MySQL.** 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Así como me gusta aprender desarrollo web, también estoy bastante enganchado con el desarrollo de videojuegos, especialmente utilizando el motor **Unity.**
+### 🙋‍♂️Algunas cosas sobre mi:
+1. En mis ratos libres me gusta leer, principalmente acerca de ciencia ficción
+2. Mi instrumento preferido es el piano
+3. Disfruto mucho de la música electrónica 
+4. Me gustan mayormente los juegos largos y con una narrativa profunda
