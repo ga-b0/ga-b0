@@ -28,7 +28,11 @@ Así como me gusta aprender desarrollo web, también estoy bastante enganchado c
 
 #### Comandos alias útiles
 
-|Nombre | Descripción|
-|-------|------------|
-|npmd| **npm run dev**: Este comando se utiliza para ejecutar el script dev definido en el archivo package.json del proyecto.|
-| cl | **clear**: limpia la terminal |
+```bash
+npmd = npm run dev
+```
+```bash
+cl = clear
+```
+
+
