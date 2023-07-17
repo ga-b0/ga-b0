@@ -10,14 +10,3 @@ Así como me gusta aprender desarrollo web, también estoy bastante enganchado c
 2. Mi instrumento preferido es el piano
 3. Disfruto mucho de la música electrónica 
 4. Me gustan mayormente los juegos largos y con una narrativa profunda
-
-
-
-```bash
-npmd = npm run dev
-```
-```bash
-cl = clear
-```
-
-
