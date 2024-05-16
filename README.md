@@ -2,7 +2,7 @@
  
 ## Soy estudiante de ingeniería y un apasionado por la tecnología y los videojuegos 👨🏻‍💻
 
-Actualmente me encuentro formándome acerca de tecnologías web, mayormente orientadas al desarrollo FrontEnd como **HTML**, **CSS** y **JavaScript**, y un poco del lado del BackEnd con **PHP** y **MySQL.** 
+Actualmente me encuentro formándome acerca de tecnologías web, mayormente orientadas al desarrollo FrontEnd como **HTML**, **CSS**, **JavaScript** y **React**, y un poco del lado del BackEnd con **PHP**, especialmente utilizando el framework de **Laravel** y **MySQL.** 
 
 Así como me gusta aprender desarrollo web, también estoy bastante enganchado con el desarrollo de videojuegos, especialmente utilizando el motor **Unity.**
 ### 🙋‍♂️Algunas cosas sobre mi:
