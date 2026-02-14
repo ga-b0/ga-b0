@@ -1,12 +1,33 @@
-# Hola!, soy Gabriel Calderón 👋🏻
- 
-## Soy estudiante de ingeniería y un apasionado por la tecnología y los videojuegos 👨🏻‍💻
+# Hi, I’m Gabriel Calderón 👋🏻  
 
-Actualmente me encuentro formándome acerca de tecnologías web, mayormente orientadas al desarrollo FrontEnd como **HTML**, **CSS**, **JavaScript** y **React**, y un poco del lado del BackEnd con **PHP**, especialmente utilizando el framework de **Laravel** y **MySQL.** 
+## Software Engineer | Full Stack Developer | Game Development Lecturer  
 
-Así como me gusta aprender desarrollo web, también estoy bastante enganchado con el desarrollo de videojuegos, especialmente utilizando el motor **Unity.**
-### 🙋‍♂️Algunas cosas sobre mi:
-1. En mis ratos libres me gusta leer, principalmente acerca de ciencia ficción
-2. Mi instrumento preferido es el piano
-3. Disfruto mucho de la música electrónica 
-4. Me gustan mayormente los juegos largos y con una narrativa profunda
+I’m a Video Game Design and Development Engineer and a Software Engineering student with professional experience building modern web applications.
+
+I specialize in frontend development with **Angular (v20, Signals, Zoneless architecture)** and have experience developing backend services using **C# and ASP.NET Core**, building secure and scalable REST APIs.
+
+Beyond professional development, I’ve also served as a **University Lecturer in Game Development**, teaching advanced courses using **Unity and C#**, mentoring students, and guiding them through real-world development practices.
+
+I’m passionate about building clean, maintainable, and scalable software aligned with modern architectural principles.
+
+---
+
+## 🛠 Tech Focus
+
+- **Frontend:** Angular, TypeScript, JavaScript, HTML, CSS  
+- **Backend:** C#, ASP.NET Core, Node.js, Express.js, NestJs  
+- **Databases:** SQL, MySQL  
+- **Practices:** Clean Architecture, REST design principles, Agile/Scrum  
+- **Tools:** Git, collaborative workflows  
+- **Game Development:** Unity, C#  
+
+---
+
+## 🚀 Currently Focused On
+
+- Building scalable Full Stack applications  
+- Improving backend architecture and API design  
+- Strengthening DevOps and cloud deployment practices  
+- Continuous learning in modern software engineering  
+
+---
