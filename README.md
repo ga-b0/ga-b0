@@ -1,6 +1,6 @@
 # Hi, I’m Gabriel Calderón 👋🏻  
 
-## Software Engineer | Full Stack Developer | Game Development Lecturer  
+## Software Engineer | Full Stack Developer  
 
 I’m a Video Game Design and Development Engineer and a Software Engineering student with professional experience building modern web applications.
 
@@ -29,5 +29,3 @@ I’m passionate about building clean, maintainable, and scalable software align
 - Improving backend architecture and API design  
 - Strengthening DevOps and cloud deployment practices  
 - Continuous learning in modern software engineering  
-
----
