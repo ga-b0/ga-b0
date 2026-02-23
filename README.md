@@ -14,7 +14,7 @@ I’m passionate about building clean, maintainable, and scalable software align
 
 ## 🛠 Tech Focus
 
-- **Frontend:** Angular, TypeScript, JavaScript, HTML, CSS  
+- **Frontend:** Angular, React, Redux, TypeScript, JavaScript, HTML, CSS  
 - **Backend:** C#, ASP.NET Core, Node.js, Express.js, NestJs  
 - **Databases:** SQL, MySQL  
 - **Practices:** Clean Architecture, REST design principles, Agile/Scrum  
